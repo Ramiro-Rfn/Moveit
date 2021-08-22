@@ -1,0 +1,80 @@
+[
+    {
+        "type": "body",
+        "description": "Em pé, apóie-se em algum objeto fixo e estique uma das pernas para trás, forçando o alongamento da panturrilha.",
+        "amout": 860
+    },
+
+    {
+        "type": "body",
+        "description": " Puxe o joelho de encontro ao peito e segure por alguns segundos.",
+        "amout": 670
+    },
+
+    {
+        "type": "body",
+        "description": "Sentado, abra as pernas e tente encostas as palmas das mãos no chão.",
+        "amout": 740
+    },
+
+    {
+        "type": "body",
+        "description": "Cruze as pernas e desça com as mãos esticadas em direção ao chão. Repita o movimento com a outra perna na frente.",
+        "amout": 460
+    },
+
+    {
+        "type": "body",
+        "description": "Puxe seu pescoço com a ajuda da mão para a direita e para a esquerda, permanecendo na posição por alguns segundos.",
+        "amout": 660
+    },
+
+    {
+        "type": "body",
+        "description": " Gire os ombros normalmente em movimentos circulares para finalizar a série.",
+        "amout": 550
+    },
+
+    {
+        "type": "body",
+        "description": "Coloque o braço dobrado por trás da cabeça, puxando para baixo com a outra mão.",
+        "amout": 600
+    },
+
+    {
+        "type": "body",
+        "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço.",
+        "amout": 700
+    },
+
+    {
+        "type": "body",
+        "description": "Estique um de seus braços com a mas com a palma da mão virada para baixo. e puxe os dedos para baixo.",
+        "amout": 500
+    },
+
+    {
+        "type": "eye",
+        "description": "Com os polegares, massagea a área abaixo das sobrancelhas por 15s.",
+        "amout": 450
+    },
+
+    {
+        "type": "eye",
+        "description": "Em algum ambiente aberto, olho o mais longe possível nas 4 dereções por 3s. Mecha as pernas",
+        "amout": 750
+    },
+
+    {
+        "type": "eye",
+        "description": "Sentado feiche os olhos e cubra-os com as palmas das mãos por 2min.",
+        "amout": 490
+    },
+
+    {
+        "type": "body",
+        "description": "Dobre uma das pernas, puxando-a pela ponta do pé e mantendo a posição durante alguns segundos.",
+        "amout": 450
+    }
+
+]

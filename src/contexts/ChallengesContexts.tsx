@@ -36,6 +36,10 @@ export function ChalllengesProvider({children}: ChallengesProviderProps){
 
     const experienceToNextLevel = Math.pow((level +1) * 4,2);
 
+    useEffect(()=>{
+        Notification.requestPermission();
+    },[])
+
     function levelUp(){
         setLevel(level +1);
     };
@@ -45,7 +49,13 @@ export function ChalllengesProvider({children}: ChallengesProviderProps){
 
         const challenge = challenges[challengeIndex];
 
-        setChallengeActive(challenge)
+        setChallengeActive(challenge);
+
+        if(Notification.permission === 'granted'){
+            new Notification('Novo desafio 🔥', {
+                body: `Valendo ${challenge.amount} px!`
+            })
+        }
     }
 
     function resetChallenge(){

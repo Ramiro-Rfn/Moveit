@@ -1,13 +1,14 @@
-import { ChalllengesProvider } from '../contexts/ChallengesContexts'
+import { ChalllengesProvider } from '../contexts/ChallengesContexts';
+
 import '../styles/globals.css'
 
 function MyApp({ Component, pageProps }) {
 
-  return (
-    <ChalllengesProvider>
+return (
+  <ChalllengesProvider>
         <Component {...pageProps} />
-    </ChalllengesProvider>
+  </ChalllengesProvider>
   )
 }
 
-export default MyApp
+export default MyApp;

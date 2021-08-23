@@ -1,6 +1,11 @@
+import { useContext } from 'react';
+import { ChallengesContext } from '../contexts/ChallengesContexts';
+
 import styels from '../styles/components/Profile.module.css';
  
 export function Profile(){
+    const {level} = useContext(ChallengesContext);
+
     return(
         <div className={styels.profileContainer}>
             <img src="https://avatars.githubusercontent.com/u/66528896?v=4" alt="Ramiro Nzau" />
@@ -8,7 +13,7 @@ export function Profile(){
                 <strong>Ramiro Nzau</strong>
                 <p>
                     <img src="icons/level.svg" alt="levelup" />
-                    level 1
+                    level {level}
                 </p>
             </div>
         </div>

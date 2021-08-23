@@ -2,79 +2,140 @@
     {
         "type": "body",
         "description": "Em pé, apóie-se em algum objeto fixo e estique uma das pernas para trás, forçando o alongamento da panturrilha.",
-        "amout": 860
+        "amount": 86
     },
 
     {
         "type": "body",
         "description": " Puxe o joelho de encontro ao peito e segure por alguns segundos.",
-        "amout": 670
+        "amount": 67
     },
 
     {
         "type": "body",
         "description": "Sentado, abra as pernas e tente encostas as palmas das mãos no chão.",
-        "amout": 740
+        "amount": 74
     },
 
     {
         "type": "body",
         "description": "Cruze as pernas e desça com as mãos esticadas em direção ao chão. Repita o movimento com a outra perna na frente.",
-        "amout": 460
+        "amount": 46
     },
 
     {
         "type": "body",
         "description": "Puxe seu pescoço com a ajuda da mão para a direita e para a esquerda, permanecendo na posição por alguns segundos.",
-        "amout": 660
+        "amount": 66
     },
 
     {
         "type": "body",
         "description": " Gire os ombros normalmente em movimentos circulares para finalizar a série.",
-        "amout": 550
+        "amount": 55
     },
 
     {
         "type": "body",
         "description": "Coloque o braço dobrado por trás da cabeça, puxando para baixo com a outra mão.",
-        "amout": 600
+        "amount": 60
     },
 
     {
         "type": "body",
         "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço.",
-        "amout": 700
+        "amount": 70
     },
 
     {
         "type": "body",
         "description": "Estique um de seus braços com a mas com a palma da mão virada para baixo. e puxe os dedos para baixo.",
-        "amout": 500
+        "amount": 50
     },
 
     {
         "type": "eye",
         "description": "Com os polegares, massagea a área abaixo das sobrancelhas por 15s.",
-        "amout": 450
+        "amount": 45
     },
 
     {
         "type": "eye",
         "description": "Em algum ambiente aberto, olho o mais longe possível nas 4 dereções por 3s. Mecha as pernas",
-        "amout": 750
+        "amount": 75
     },
 
     {
         "type": "eye",
         "description": "Sentado feiche os olhos e cubra-os com as palmas das mãos por 2min.",
-        "amout": 490
+        "amount": 49
     },
 
     {
         "type": "body",
         "description": "Dobre uma das pernas, puxando-a pela ponta do pé e mantendo a posição durante alguns segundos.",
-        "amout": 450
-    }
+        "amount": 45
+    },
+
+    {
+        "type": "body",
+        "description": "Estique um de seus braços com a palma da mão virada para frente e puxe os dedos para cima por 10 segundos por mão.",
+        "amount": 80
+      },
+      {
+        "type": "body",
+        "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço por 10 segundos por braço.",
+        "amount": 60
+      },
+      {
+        "type": "body",
+        "description": "Puxe seu pescoço com a ajuda da mão para a direita e para a esquerda, permanecendo na posição por alguns segundos.",
+        "amount": 70
+      },
+      {
+        "type": "body",
+        "description": "Com as duas mãos na parte de trás da cabeça, leve-a para baixo, alongando a parte de trás da região.",
+        "amount": 60
+      },
+      {
+        "type": "body",
+        "description": "Cruze as pernas e desça com as mãos esticadas em direção ao chão. Repita o movimento com a outra perna na frente.",
+        "amount": 100
+      },
+      {
+        "type": "body",
+        "description": "Sentado, abra as pernas e tente encostar as palmas das mãos no chão, repita 3 vezes por 5 segundos.",
+        "amount": 80
+      },
+      {
+        "type": "body",
+        "description": "Puxe o joelho de encontro ao peito e segure, troque de perna após 10 segundos.",
+        "amount": 50
+      },
+      {
+        "type": "body",
+        "description": "Sentado, cruze uma perna e incline seu tronco à frente, troque de perna após 10 segundos.",
+        "amount": 80
+      },
+      {
+        "type": "eye",
+        "description": "Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutos, depois abra normalmente.",
+        "amount": 90
+      },
+      {
+        "type": "eye",
+        "description": "Em algum ambiente aberto, olhe o mais longe que puder em quatro direções por 3s, mexa apenas os olhos. Repita 3 vezes.",
+        "amount": 140
+      },
+      {
+        "type": "eye",
+        "description": "Usando os polegares, massage a área abaixo das sobrancelhas em movimentos circulares por 15 segundos.",
+        "amount": 70
+      },
+      {
+        "type": "body",
+        "description": "Em pé, gire a cintura o máximo que puder para a esquerda, segure por cinco segundos. Repita para a direita.",
+        "amount": 90
+      }
 
 ]
